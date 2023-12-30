@@ -347,3 +347,8 @@ template {
 [hidden] {
   display: none;
 }
+
+/* Это добавил уже сам */
+li {
+  list-style: none;
+}
